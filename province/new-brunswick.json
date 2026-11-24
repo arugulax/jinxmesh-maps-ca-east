@@ -1,0 +1,44 @@
+{
+ "name": "new-brunswick",
+ "format": "JMVM 4",
+ "group": 17782,
+ "bytes": 90568265,
+ "pieces": [
+  {
+   "file": "new-brunswick-1.jmv",
+   "bytes": 23171933,
+   "sha256": "103c16628c80cbf8743e459b64a5793bd44a636f65f773ea6918d7238a803797",
+   "south": 47.04018,
+   "west": -69.12598,
+   "north": 48.04871,
+   "east": -66.79688
+  },
+  {
+   "file": "new-brunswick-2.jmv",
+   "bytes": 22485343,
+   "sha256": "70171100ecead06e2c4ebc95cffb232f7fd0da2e42089d8c4412b8498f056739",
+   "south": 46.55886,
+   "west": -66.79688,
+   "north": 48.22467,
+   "east": -63.2373
+  },
+  {
+   "file": "new-brunswick-3.jmv",
+   "bytes": 19487679,
+   "sha256": "39dfd5dde04bf4689e9d1225f0db212552bf92d4d37e85c693dae3d74385a27d",
+   "south": 44.27667,
+   "west": -67.89551,
+   "north": 47.04018,
+   "east": -66.79688
+  },
+  {
+   "file": "new-brunswick-4.jmv",
+   "bytes": 25423310,
+   "sha256": "dc3abcfba9f9495408bb861516c652f4a246ef236749a9bebfcacdc109e9f5bb",
+   "south": 44.21371,
+   "west": -66.79688,
+   "north": 46.55886,
+   "east": -63.45703
+  }
+ ]
+}
