@@ -1,0 +1,26 @@
+{
+ "name": "nova-scotia",
+ "format": "JMVM 4",
+ "group": 23116,
+ "bytes": 73764265,
+ "pieces": [
+  {
+   "file": "nova-scotia-1.jmv",
+   "bytes": 36803475,
+   "sha256": "04f7cee1986ff5f3c10099a7887ae8212eb9a9847396439177a8dfd659d58b17",
+   "south": 43.70759,
+   "west": -63.28125,
+   "north": 47.93107,
+   "east": -58.93066
+  },
+  {
+   "file": "nova-scotia-2.jmv",
+   "bytes": 36960790,
+   "sha256": "9a22f5c938836bff8df8a1059da3a805b92dbb016d8814d3db249f405f82970b",
+   "south": 43.16512,
+   "west": -66.79688,
+   "north": 46.13417,
+   "east": -63.28125
+  }
+ ]
+}
