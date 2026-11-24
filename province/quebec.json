@@ -1,0 +1,629 @@
+{
+ "name": "quebec",
+ "format": "JMVM 4",
+ "group": 29213,
+ "bytes": 2159344341,
+ "pieces": [
+  {
+   "file": "quebec-1.jmv",
+   "bytes": 30822576,
+   "sha256": "0ef9084713602d0224ad3242a9968b1a5fe40db7e706ac28c0958e7f8a924d9e",
+   "south": 61.27023,
+   "west": -78.22266,
+   "north": 62.61356,
+   "east": -75.23438
+  },
+  {
+   "file": "quebec-2.jmv",
+   "bytes": 33991933,
+   "sha256": "2a85f92ea8515cae2392661e89b9ede2a50e5067a956f0b13b0ee57f9e5fb244",
+   "south": 60.93043,
+   "west": -75.23438,
+   "north": 62.49203,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-3.jmv",
+   "bytes": 31874547,
+   "sha256": "bc9fe90530acbd617c80d04fafde7dc5946ef7c490d67d154fec90ce4fe5fa0c",
+   "south": 60.23981,
+   "west": -72.42188,
+   "north": 62.08331,
+   "east": -70.3125
+  },
+  {
+   "file": "quebec-4.jmv",
+   "bytes": 34739053,
+   "sha256": "92e4b8959b2b338451e417be6127175fab96571c8308a42ec58a192cbf8d99e9",
+   "south": 59.88894,
+   "west": -78.35449,
+   "north": 61.27023,
+   "east": -75.23438
+  },
+  {
+   "file": "quebec-5.jmv",
+   "bytes": 27647257,
+   "sha256": "9efc7f463fd8a2497d985abf6ea028b114456d2aa60c129325749991485c89e8",
+   "south": 58.44773,
+   "west": -70.3125,
+   "north": 61.16444,
+   "east": -65.39062
+  },
+  {
+   "file": "quebec-6.jmv",
+   "bytes": 28919137,
+   "sha256": "c937ba2a18bb935ffb3969ec545e0d42354e50b7b822c600fa557c0af6e09434",
+   "south": 59.88894,
+   "west": -75.23438,
+   "north": 60.93043,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-7.jmv",
+   "bytes": 18065136,
+   "sha256": "b229bb4cbcdb3f8a4ae223ebb6d8e45c9868c8a1e7f8e496d57950f94a7265a9",
+   "south": 59.17593,
+   "west": -65.39062,
+   "north": 60.43554,
+   "east": -64.24805
+  },
+  {
+   "file": "quebec-8.jmv",
+   "bytes": 32663855,
+   "sha256": "6c66a10a10c783b168936ba31443e113501882da6f598fbce3567aae5642a87d",
+   "south": 58.44773,
+   "west": -72.42188,
+   "north": 60.23981,
+   "east": -70.3125
+  },
+  {
+   "file": "quebec-9.jmv",
+   "bytes": 33091238,
+   "sha256": "adc9268ff15dfd56c87ac471b7e4bf0071a049204541e52b4e44c397460b4894",
+   "south": 58.44773,
+   "west": -78.75,
+   "north": 59.88894,
+   "east": -75.23438
+  },
+  {
+   "file": "quebec-10.jmv",
+   "bytes": 35429181,
+   "sha256": "82827ab561a6b98d700dc03b25686cf94c840c16e78548c6f3b218e1daa2eef0",
+   "south": 58.44773,
+   "west": -75.23438,
+   "north": 59.88894,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-11.jmv",
+   "bytes": 23691135,
+   "sha256": "49b3c9d665b2700e7377eaa6d4262a13dbcef077bfe4f774f6c457e0992a94d1",
+   "south": 58.44773,
+   "west": -65.39062,
+   "north": 59.17593,
+   "east": -63.36914
+  },
+  {
+   "file": "quebec-12.jmv",
+   "bytes": 30805131,
+   "sha256": "643b3d6a64322379d8e357dbece2733c0bd3a682f438d1252d95be8ee1b58775",
+   "south": 56.94497,
+   "west": -78.2666,
+   "north": 58.44773,
+   "east": -75.23438
+  },
+  {
+   "file": "quebec-13.jmv",
+   "bytes": 26589587,
+   "sha256": "fd0fa9bf34de52623ccf6707e722315e32ac74b476969f32105e4cde732ef58b",
+   "south": 56.94497,
+   "west": -75.23438,
+   "north": 58.44773,
+   "east": -73.82812
+  },
+  {
+   "file": "quebec-14.jmv",
+   "bytes": 20218498,
+   "sha256": "f69fd27a1b53f1bb7032409936747a04d3327be3634c28110602dfc350203018",
+   "south": 56.94497,
+   "west": -73.82812,
+   "north": 58.44773,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-15.jmv",
+   "bytes": 32840866,
+   "sha256": "0c0e7c666f7904f22e12d2166debd7839318bdb1159d92903827bf065ff1bee2",
+   "south": 56.94497,
+   "west": -72.42188,
+   "north": 58.44773,
+   "east": -70.3125
+  },
+  {
+   "file": "quebec-16.jmv",
+   "bytes": 27551850,
+   "sha256": "7082f7a72e5af09982b6f447f8e9c6c305357113936dac81d52e0c57acf61496",
+   "south": 56.94497,
+   "west": -70.3125,
+   "north": 58.44773,
+   "east": -68.20312
+  },
+  {
+   "file": "quebec-17.jmv",
+   "bytes": 33530668,
+   "sha256": "93c23675ef411cf34d787daa671637c136b5297b23031dd6d7ce11a1498f8f7f",
+   "south": 56.94497,
+   "west": -68.20312,
+   "north": 58.44773,
+   "east": -65.39062
+  },
+  {
+   "file": "quebec-18.jmv",
+   "bytes": 27954331,
+   "sha256": "bb3e5ad801e14e4bcc3332c0515557344711bcbf34a91843f0bb30e075adc936",
+   "south": 56.94497,
+   "west": -65.39062,
+   "north": 58.44773,
+   "east": -63.50098
+  },
+  {
+   "file": "quebec-19.jmv",
+   "bytes": 36453362,
+   "sha256": "11959ae714c25c9cd0b124279458c387f547dc47a73fbb968bda1d30a1a02bd5",
+   "south": 54.57206,
+   "west": -79.84863,
+   "north": 56.94497,
+   "east": -75.9375
+  },
+  {
+   "file": "quebec-20.jmv",
+   "bytes": 37829352,
+   "sha256": "cbbc41db6b1e10a8dbd3cfab603618821d0cd7f5d57fd5a29e171f90435a3771",
+   "south": 54.57206,
+   "west": -75.9375,
+   "north": 56.94497,
+   "east": -74.53125
+  },
+  {
+   "file": "quebec-21.jmv",
+   "bytes": 33431561,
+   "sha256": "1b15c9b256b950ca9472a66e39bb1e4cd45472144657c13688287d6ae59cb039",
+   "south": 55.77657,
+   "west": -74.53125,
+   "north": 56.94497,
+   "east": -71.71875
+  },
+  {
+   "file": "quebec-22.jmv",
+   "bytes": 29405763,
+   "sha256": "46cb39b22933e6bab41fbe37868d3ffcd7eb3b8429f80b648681f832dc49f2a4",
+   "south": 55.77657,
+   "west": -71.71875,
+   "north": 56.94497,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-23.jmv",
+   "bytes": 35418111,
+   "sha256": "3e13c65e4e2a6a8b9cd6dbc59ecfee632ce743b58167bb65ce1a583ebccb584c",
+   "south": 55.37911,
+   "west": -68.90625,
+   "north": 56.94497,
+   "east": -66.09375
+  },
+  {
+   "file": "quebec-24.jmv",
+   "bytes": 32698309,
+   "sha256": "6470ce40c141f045a9fb5eb8bf3535ae3cddd6299e73507d18e26a9a18bff447",
+   "south": 55.37911,
+   "west": -66.09375,
+   "north": 56.94497,
+   "east": -63.19336
+  },
+  {
+   "file": "quebec-25.jmv",
+   "bytes": 28466777,
+   "sha256": "49ffa3d5e3449a871c55745230e70548bb454af45f80f08dd1ff095c568c0b17",
+   "south": 54.57206,
+   "west": -74.53125,
+   "north": 55.77657,
+   "east": -71.71875
+  },
+  {
+   "file": "quebec-26.jmv",
+   "bytes": 36321527,
+   "sha256": "ebcbd34850dfbec1cae3d6aa202aa670aba6abf988b7f074551f23bc2fdf3949",
+   "south": 54.16243,
+   "west": -71.71875,
+   "north": 55.77657,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-27.jmv",
+   "bytes": 41451754,
+   "sha256": "f08e2a7774c8353ffcc2c83e836d0714adf74261d0013cab090cb648b727e260",
+   "south": 52.05249,
+   "west": -68.90625,
+   "north": 55.37911,
+   "east": -67.5
+  },
+  {
+   "file": "quebec-28.jmv",
+   "bytes": 41407197,
+   "sha256": "e9b24d3845eb1994f5c503832cfed26f02f9a55ef0a2dcd20b6dc863408bdf23",
+   "south": 52.05249,
+   "west": -67.5,
+   "north": 55.37911,
+   "east": -63.2373
+  },
+  {
+   "file": "quebec-29.jmv",
+   "bytes": 34487571,
+   "sha256": "64f5cd876bbd542dcf84f0c5eba964e817eb89227303d9fd7b024e55a65dfd32",
+   "south": 52.05249,
+   "west": -79.67285,
+   "north": 54.57206,
+   "east": -75.9375
+  },
+  {
+   "file": "quebec-30.jmv",
+   "bytes": 28755036,
+   "sha256": "118f5e5aeaf41558125289f68593809a9246d441f6199d9518d3e1088ad45acc",
+   "south": 52.05249,
+   "west": -75.9375,
+   "north": 54.57206,
+   "east": -74.53125
+  },
+  {
+   "file": "quebec-31.jmv",
+   "bytes": 25441121,
+   "sha256": "cdb294854455df62da8388030625e5921ce4ec545bec30e5ce402c13c6902906",
+   "south": 53.33087,
+   "west": -74.53125,
+   "north": 54.57206,
+   "east": -71.71875
+  },
+  {
+   "file": "quebec-32.jmv",
+   "bytes": 35464827,
+   "sha256": "ee9456435ab01f377b2fd81b7d699521c115a76cc2dea4f01bee2189af110fbc",
+   "south": 52.9089,
+   "west": -71.71875,
+   "north": 54.16243,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-33.jmv",
+   "bytes": 30646234,
+   "sha256": "1e556b84f659afa60d8e2dc048d6dec671eecce9e367d039e30c0761604512e6",
+   "south": 52.05249,
+   "west": -74.53125,
+   "north": 53.33087,
+   "east": -71.71875
+  },
+  {
+   "file": "quebec-34.jmv",
+   "bytes": 25193813,
+   "sha256": "848477165076694b1060ec99a5f2ceb95ce5c68a4d87663039a65ee50591113e",
+   "south": 52.05249,
+   "west": -71.71875,
+   "north": 52.9089,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-35.jmv",
+   "bytes": 31097282,
+   "sha256": "2e9cde0726ccace1ff2140a536b2b14c59a70e05b4be6089a667f36c6c7d2f4e",
+   "south": 49.38237,
+   "west": -79.62891,
+   "north": 52.05249,
+   "east": -75.9375
+  },
+  {
+   "file": "quebec-36.jmv",
+   "bytes": 29057365,
+   "sha256": "a59e4a9daab986df91e3257650434ecf4e00ab1c04e920be022aca5b9c5483f2",
+   "south": 49.83798,
+   "west": -75.9375,
+   "north": 52.05249,
+   "east": -73.82812
+  },
+  {
+   "file": "quebec-37.jmv",
+   "bytes": 33079411,
+   "sha256": "a4909c7ec5f4e7e25f772c9acc1671a503bcfef2df6a8f7b2194b117b53aa178",
+   "south": 50.28934,
+   "west": -73.82812,
+   "north": 52.05249,
+   "east": -71.01562
+  },
+  {
+   "file": "quebec-38.jmv",
+   "bytes": 27646561,
+   "sha256": "2d548937153b69e8834d4918eb7a194408ca631a4f613083b8225d039bc83ac8",
+   "south": 50.73646,
+   "west": -71.01562,
+   "north": 52.05249,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-39.jmv",
+   "bytes": 34903741,
+   "sha256": "e2448423c8434c0579670a1ad1f8cdba80259645ba4c36c92483da0d0fb5347e",
+   "south": 50.73646,
+   "west": -68.90625,
+   "north": 52.05249,
+   "east": -66.79688
+  },
+  {
+   "file": "quebec-40.jmv",
+   "bytes": 39605155,
+   "sha256": "336645bea7bc376b25fd6f0538c6be9a86fb30e6dc3195dc66f73956dbf0cb31",
+   "south": 50.28934,
+   "west": -66.79688,
+   "north": 52.05249,
+   "east": -65.39062
+  },
+  {
+   "file": "quebec-41.jmv",
+   "bytes": 40286405,
+   "sha256": "2e4321316dfbd019a81be99dc12a1136bd87f1b682f6a4cd035ceeb0d3b21ed0",
+   "south": 50.28934,
+   "west": -65.39062,
+   "north": 52.05249,
+   "east": -63.98438
+  },
+  {
+   "file": "quebec-42.jmv",
+   "bytes": 33786092,
+   "sha256": "a044e216259de3b624858bd99539b7c870c81330a75f9f79b298511b8c12920d",
+   "south": 51.17934,
+   "west": -63.98438,
+   "north": 52.05249,
+   "east": -60.46875
+  },
+  {
+   "file": "quebec-43.jmv",
+   "bytes": 33283861,
+   "sha256": "7660cbbf02550813b7a57e7c9fed8956cafee330834c9ed55b34e13373f07811",
+   "south": 51.17934,
+   "west": -60.46875,
+   "north": 52.05249,
+   "east": -57.04102
+  },
+  {
+   "file": "quebec-44.jmv",
+   "bytes": 37680896,
+   "sha256": "3565cc20f479fe520e337c9903b5452f71e86f8f59c26effd552e83884cbb219",
+   "south": 46.83013,
+   "west": -63.98438,
+   "north": 51.17934,
+   "east": -61.875
+  },
+  {
+   "file": "quebec-45.jmv",
+   "bytes": 34627698,
+   "sha256": "9a92aede162b1884f3a082daac2ee87dcb31ae2c54bdc79a94544b0d736681f1",
+   "south": 46.64944,
+   "west": -61.875,
+   "north": 51.17934,
+   "east": -57.2168
+  },
+  {
+   "file": "quebec-46.jmv",
+   "bytes": 37739427,
+   "sha256": "f0e67e8843cb677acc87066b33a12cdbc784e33359e38553a5c79e2c6d4f0da4",
+   "south": 49.38237,
+   "west": -71.01562,
+   "north": 50.73646,
+   "east": -68.90625
+  },
+  {
+   "file": "quebec-47.jmv",
+   "bytes": 18621618,
+   "sha256": "e6da420b283afec715775df3b20d64ae06ce7ea5104ca4ea79d6732329740750",
+   "south": 49.38237,
+   "west": -68.90625,
+   "north": 50.73646,
+   "east": -68.20312
+  },
+  {
+   "file": "quebec-48.jmv",
+   "bytes": 33352880,
+   "sha256": "5b4ec661c56034f630cbfa81ef06d3349e5c2918864e2ab7174f130eb1008b3c",
+   "south": 49.38237,
+   "west": -68.20312,
+   "north": 50.73646,
+   "east": -66.79688
+  },
+  {
+   "file": "quebec-49.jmv",
+   "bytes": 30976733,
+   "sha256": "efc6a056b12cd5d2bf647a1d2d3519e2941994a02b01f8f6d4272369bcaa4209",
+   "south": 49.38237,
+   "west": -73.82812,
+   "north": 50.28934,
+   "east": -71.01562
+  },
+  {
+   "file": "quebec-50.jmv",
+   "bytes": 41224430,
+   "sha256": "51b64d5c39534ac1eaafa04c7337e4f7bb3fc9126961388e4be6e6d714851b01",
+   "south": 48.45835,
+   "west": -66.79688,
+   "north": 50.28934,
+   "east": -63.98438
+  },
+  {
+   "file": "quebec-51.jmv",
+   "bytes": 32456344,
+   "sha256": "8991401ac3a7a922ecfe8542c6a045243a693602dbd036cdbaa8892a1b4b42f3",
+   "south": 47.98992,
+   "west": -75.9375,
+   "north": 49.83798,
+   "east": -73.82812
+  },
+  {
+   "file": "quebec-52.jmv",
+   "bytes": 32240434,
+   "sha256": "f80fc1607b9d4b31f9dfa0d8806d7f0ab50e1aa970ff6e0956308ef7c3209109",
+   "south": 47.98992,
+   "west": -79.58496,
+   "north": 49.38237,
+   "east": -75.9375
+  },
+  {
+   "file": "quebec-53.jmv",
+   "bytes": 26224436,
+   "sha256": "dec58eb8003c2295b59ddbb70f209153d7c7702c05d2fa47477d95a06543c1e5",
+   "south": 47.98992,
+   "west": -73.82812,
+   "north": 49.38237,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-54.jmv",
+   "bytes": 27015974,
+   "sha256": "767f78eafde6cf52c2c9b8ae8e524cf2b32b3be99879adc18a80a9ec63fb653c",
+   "south": 47.98992,
+   "west": -72.42188,
+   "north": 49.38237,
+   "east": -71.01562
+  },
+  {
+   "file": "quebec-55.jmv",
+   "bytes": 25659504,
+   "sha256": "761ac7a1d55e0d400ee26ce9730effe811b83a7f8c687dd1c93d5140abba2f6e",
+   "south": 48.45835,
+   "west": -71.01562,
+   "north": 49.38237,
+   "east": -69.60938
+  },
+  {
+   "file": "quebec-56.jmv",
+   "bytes": 28591481,
+   "sha256": "81e23bc41ccd566c0e05c0e796a17a7090baad2a1f1960f8f68fc50140bce120",
+   "south": 48.45835,
+   "west": -69.60938,
+   "north": 49.38237,
+   "east": -66.79688
+  },
+  {
+   "file": "quebec-57.jmv",
+   "bytes": 34024932,
+   "sha256": "fbb8067831cec708b7af90eef0d0b5d1882cbdb1ff8401d44d2508c4283b1d66",
+   "south": 47.98992,
+   "west": -71.01562,
+   "north": 48.45835,
+   "east": -66.79688
+  },
+  {
+   "file": "quebec-58.jmv",
+   "bytes": 18583975,
+   "sha256": "40de6872a5cb9780b132c7d40443a531eed90bcaf19b7af95cc1f8536d2e3352",
+   "south": 47.81315,
+   "west": -66.79688,
+   "north": 48.45835,
+   "east": -63.98438
+  },
+  {
+   "file": "quebec-59.jmv",
+   "bytes": 26860444,
+   "sha256": "31b13bdd84c5ba606bcad00420d030fc252a55d647b2637e983969eac75060ab",
+   "south": 47.04018,
+   "west": -79.67285,
+   "north": 47.98992,
+   "east": -76.64062
+  },
+  {
+   "file": "quebec-60.jmv",
+   "bytes": 40889893,
+   "sha256": "1ecdb963e065d1177d6f4044ab94245202807c127a52bbd9f56c371a013c9c30",
+   "south": 46.55886,
+   "west": -76.64062,
+   "north": 47.98992,
+   "east": -74.53125
+  },
+  {
+   "file": "quebec-61.jmv",
+   "bytes": 30582767,
+   "sha256": "e46f66657b2c9bd94a4dd5da164ee27b065994c81095f7c0ff716cc41795d826",
+   "south": 46.55886,
+   "west": -74.53125,
+   "north": 47.98992,
+   "east": -73.125
+  },
+  {
+   "file": "quebec-62.jmv",
+   "bytes": 18670386,
+   "sha256": "62c549a2b3683143b8679f16bedaab65b682c82e4ccdd94ed3fb147832daa9c8",
+   "south": 46.55886,
+   "west": -73.125,
+   "north": 47.98992,
+   "east": -72.42188
+  },
+  {
+   "file": "quebec-63.jmv",
+   "bytes": 37191282,
+   "sha256": "4adc95e3e1325a8d22d6f3182d5c484d34d6d341cee92f2bffa4669023906016",
+   "south": 46.55886,
+   "west": -72.42188,
+   "north": 47.98992,
+   "east": -71.01562
+  },
+  {
+   "file": "quebec-64.jmv",
+   "bytes": 25561958,
+   "sha256": "2e136b8f6d772a39ef1c53a987e1cd0a2b940fb294ad2286a044995d574ef7a2",
+   "south": 45.18204,
+   "west": -71.01562,
+   "north": 47.98992,
+   "east": -70.3125
+  },
+  {
+   "file": "quebec-65.jmv",
+   "bytes": 22727525,
+   "sha256": "e1ed24bcfc2bd1ba3db7e6bc77a45fbac987cf9bf663e69e836fa92739b4fab5",
+   "south": 45.79817,
+   "west": -70.3125,
+   "north": 47.98992,
+   "east": -66.79688
+  },
+  {
+   "file": "quebec-66.jmv",
+   "bytes": 31506463,
+   "sha256": "ea3e74c2895602a3dc6f35f62dee3d5fed976eb41e9eb3f6e4d06cc50944f498",
+   "south": 45.49095,
+   "west": -79.49707,
+   "north": 47.04018,
+   "east": -76.64062
+  },
+  {
+   "file": "quebec-67.jmv",
+   "bytes": 39589162,
+   "sha256": "e034465e61e97fe7bff8df6f29286273f249efcd466e98e38f0fd3ccaf18cef4",
+   "south": 44.9337,
+   "west": -76.64062,
+   "north": 46.55886,
+   "east": -74.53125
+  },
+  {
+   "file": "quebec-68.jmv",
+   "bytes": 31273131,
+   "sha256": "932a5a91962b5f179f5c7df6af0705a5c3d9a9fdd1683e8f463c0aa39c9794ef",
+   "south": 44.9337,
+   "west": -74.53125,
+   "north": 46.55886,
+   "east": -73.125
+  },
+  {
+   "file": "quebec-69.jmv",
+   "bytes": 29426401,
+   "sha256": "efd600b454db013f3078df56f13158c2d126545efe9b4f447db855a4946e567a",
+   "south": 44.9648,
+   "west": -73.125,
+   "north": 46.55886,
+   "east": -71.01562
+  }
+ ]
+}
