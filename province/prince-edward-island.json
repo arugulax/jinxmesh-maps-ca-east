@@ -1,0 +1,17 @@
+{
+ "name": "prince-edward-island",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 4940869,
+ "pieces": [
+  {
+   "file": "prince-edward-island.jmv",
+   "bytes": 4940869,
+   "sha256": "fdb921c08229c9473cf0970e80314bdfd1615136cb00575620d94e0d5f553819",
+   "south": 45.76752,
+   "west": -64.6875,
+   "north": 47.69497,
+   "east": -61.34766
+  }
+ ]
+}
