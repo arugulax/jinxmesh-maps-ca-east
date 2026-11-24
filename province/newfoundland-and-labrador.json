@@ -1,0 +1,251 @@
+{
+ "name": "newfoundland-and-labrador",
+ "format": "JMVM 4",
+ "group": 2867,
+ "bytes": 713360129,
+ "pieces": [
+  {
+   "file": "newfoundland-and-labrador-1.jmv",
+   "bytes": 28686801,
+   "sha256": "1ec1698d543b4a917775267c6384ae4ea10c2a70ba22e63d656d61e2d0e44047",
+   "south": 59.17593,
+   "west": -65.03906,
+   "north": 60.54378,
+   "east": -62.79785
+  },
+  {
+   "file": "newfoundland-and-labrador-2.jmv",
+   "bytes": 20310329,
+   "sha256": "adab2974944153e239f9cd368cd1f8b11b14155e1b86f1f5c51e912c3cf813a4",
+   "south": 58.81374,
+   "west": -64.99512,
+   "north": 59.17593,
+   "east": -62.57812
+  },
+  {
+   "file": "newfoundland-and-labrador-3.jmv",
+   "bytes": 38536634,
+   "sha256": "5a335bef1db72e1c1cdebe5b370a2de95ef49626448db66eebf46ad1a8a2805c",
+   "south": 56.17002,
+   "west": -62.57812,
+   "north": 58.95001,
+   "east": -59.85352
+  },
+  {
+   "file": "newfoundland-and-labrador-4.jmv",
+   "bytes": 25685893,
+   "sha256": "024cb57ca0f45d06b1d878ae659c9630903a1e9a1686b7277d40d7255bc7b3fa",
+   "south": 58.07788,
+   "west": -64.59961,
+   "north": 58.81374,
+   "east": -62.57812
+  },
+  {
+   "file": "newfoundland-and-labrador-5.jmv",
+   "bytes": 18404162,
+   "sha256": "d0225b96c410e406cb299613be8a62755d6e7322deb10029d81ea8042b0bac92",
+   "south": 57.32652,
+   "west": -64.51172,
+   "north": 58.07788,
+   "east": -62.57812
+  },
+  {
+   "file": "newfoundland-and-labrador-6.jmv",
+   "bytes": 22415918,
+   "sha256": "cb7ab23433b78bd4e14cb9e679c061f81c9b73877be1782884f3b591ca3347f1",
+   "south": 54.97761,
+   "west": -67.58789,
+   "north": 57.32652,
+   "east": -63.28125
+  },
+  {
+   "file": "newfoundland-and-labrador-7.jmv",
+   "bytes": 26219828,
+   "sha256": "7f949db4727ddfe1cb5960de868df095d2c852e37bdc764aa5086b69c32596f0",
+   "south": 54.97761,
+   "west": -63.28125,
+   "north": 57.32652,
+   "east": -62.57812
+  },
+  {
+   "file": "newfoundland-and-labrador-8.jmv",
+   "bytes": 19038407,
+   "sha256": "0bc4b8f23f596a4d136651220b036f91533a485039ad1b18bbc18860d93fc057",
+   "south": 54.97761,
+   "west": -62.57812,
+   "north": 56.17002,
+   "east": -61.875
+  },
+  {
+   "file": "newfoundland-and-labrador-9.jmv",
+   "bytes": 31969294,
+   "sha256": "21e1a2fb80146d17efacb0d6ebacbbe2bcbc853c4b1af46733d7234abd219325",
+   "south": 54.97761,
+   "west": -61.875,
+   "north": 56.17002,
+   "east": -57.34863
+  },
+  {
+   "file": "newfoundland-and-labrador-10.jmv",
+   "bytes": 23162802,
+   "sha256": "0e9f2deb9849271556f9edb877eec9fd931aaea46abc55563c21d865d8787d76",
+   "south": 53.74871,
+   "west": -67.93945,
+   "north": 54.97761,
+   "east": -65.39062
+  },
+  {
+   "file": "newfoundland-and-labrador-11.jmv",
+   "bytes": 20395856,
+   "sha256": "a1ddf6105e94794ac9fa5fee7f4a96d08f6c4293d6cd5ccf1b65d3ef59ee1bb1",
+   "south": 53.74871,
+   "west": -65.39062,
+   "north": 54.97761,
+   "east": -62.57812
+  },
+  {
+   "file": "newfoundland-and-labrador-12.jmv",
+   "bytes": 34099256,
+   "sha256": "20ec0e6c5c89304471a7b914e155c326a54cc4ec4fbe879f5d7e3fed4a5826fc",
+   "south": 53.74871,
+   "west": -62.57812,
+   "north": 54.97761,
+   "east": -60.46875
+  },
+  {
+   "file": "newfoundland-and-labrador-13.jmv",
+   "bytes": 34461877,
+   "sha256": "3f4680c774942edf3997f303835b6a6ac154de150618430c33e75d237fbe1bef",
+   "south": 53.74871,
+   "west": -60.46875,
+   "north": 54.97761,
+   "east": -55.54688
+  },
+  {
+   "file": "newfoundland-and-labrador-14.jmv",
+   "bytes": 20752809,
+   "sha256": "a76ab2c61ef44080daf8d95675117e269da853f2cabb0031c6b54378c6220b98",
+   "south": 51.78144,
+   "west": -67.71973,
+   "north": 53.74871,
+   "east": -65.39062
+  },
+  {
+   "file": "newfoundland-and-labrador-15.jmv",
+   "bytes": 22017984,
+   "sha256": "ccfc61ebdf75247b342ca2fe2b562501a7544cda735bebb38f75d326683e4790",
+   "south": 51.50874,
+   "west": -65.39062,
+   "north": 53.74871,
+   "east": -63.98438
+  },
+  {
+   "file": "newfoundland-and-labrador-16.jmv",
+   "bytes": 25565015,
+   "sha256": "7f0835ee14998c83fa2afb60a6625af0f8887f8665a99853a9ae3a6b2aa1e321",
+   "south": 52.9089,
+   "west": -63.98438,
+   "north": 53.74871,
+   "east": -61.17188
+  },
+  {
+   "file": "newfoundland-and-labrador-17.jmv",
+   "bytes": 21192004,
+   "sha256": "cccfbd483e027e5dbf30a8f975c0b637544d1af0f121dd13ec7d791099ee0ab5",
+   "south": 52.05249,
+   "west": -61.17188,
+   "north": 53.74871,
+   "east": -59.76562
+  },
+  {
+   "file": "newfoundland-and-labrador-18.jmv",
+   "bytes": 30971150,
+   "sha256": "500cdc60213ec708f34e78321dbdf96c3952a82aca799dd15a4fe17eb0edb77a",
+   "south": 52.05249,
+   "west": -59.76562,
+   "north": 53.74871,
+   "east": -57.65625
+  },
+  {
+   "file": "newfoundland-and-labrador-19.jmv",
+   "bytes": 23089773,
+   "sha256": "5aee2fa20f289954e793fb82930793fa1060aaade919da71b6f8bb1878c529d2",
+   "south": 52.48278,
+   "west": -57.65625,
+   "north": 53.74871,
+   "east": -55.23926
+  },
+  {
+   "file": "newfoundland-and-labrador-20.jmv",
+   "bytes": 20865136,
+   "sha256": "7607005d5b46d94c47f8af72183c36b9c6c5c094ab0784d26438391d8cb85b01",
+   "south": 51.94426,
+   "west": -63.98438,
+   "north": 52.9089,
+   "east": -61.17188
+  },
+  {
+   "file": "newfoundland-and-labrador-21.jmv",
+   "bytes": 27485703,
+   "sha256": "65dfcc0c1b34ad7f5ba57610cafd174716d7252c4a2318bfba7befb54ddef498",
+   "south": 50.28934,
+   "west": -57.65625,
+   "north": 52.48278,
+   "east": -54.93164
+  },
+  {
+   "file": "newfoundland-and-labrador-22.jmv",
+   "bytes": 42371312,
+   "sha256": "941f0b9baac951f8ad3fce4e7d966c1115c1f06c3b56b935d40084ade8807541",
+   "south": 47.27923,
+   "west": -61.17188,
+   "north": 52.05249,
+   "east": -57.65625
+  },
+  {
+   "file": "newfoundland-and-labrador-23.jmv",
+   "bytes": 27163098,
+   "sha256": "c1b56f399a0ef0f2cab01cf4b988e19d79f71b363cfaa34a998a25c1785c52ae",
+   "south": 48.9225,
+   "west": -57.65625,
+   "north": 50.28934,
+   "east": -56.25
+  },
+  {
+   "file": "newfoundland-and-labrador-24.jmv",
+   "bytes": 19842378,
+   "sha256": "91ce292c43eebcb383182dc70ca1cc7ee3b2ae8dfa24595726adb95b2df3808e",
+   "south": 48.9225,
+   "west": -56.25,
+   "north": 50.28934,
+   "east": -52.86621
+  },
+  {
+   "file": "newfoundland-and-labrador-25.jmv",
+   "bytes": 26089995,
+   "sha256": "85d53c433f1ad448effab2cb9c9831707569b2cea6a9ccd545f8e6b347deaa90",
+   "south": 47.98992,
+   "west": -57.65625,
+   "north": 48.9225,
+   "east": -54.84375
+  },
+  {
+   "file": "newfoundland-and-labrador-26.jmv",
+   "bytes": 36259337,
+   "sha256": "b445d2cdca1031b726b37197ba554d2bc7053c6b9bdcbb7c08711cd7121a9cab",
+   "south": 46.40756,
+   "west": -54.84375,
+   "north": 48.9225,
+   "east": -52.29492
+  },
+  {
+   "file": "newfoundland-and-labrador-27.jmv",
+   "bytes": 26307378,
+   "sha256": "6930c8ebc6330f539126105f970311dcb3f964deb61f703ffb5662d602219039",
+   "south": 46.58907,
+   "west": -57.65625,
+   "north": 47.98992,
+   "east": -54.84375
+  }
+ ]
+}
